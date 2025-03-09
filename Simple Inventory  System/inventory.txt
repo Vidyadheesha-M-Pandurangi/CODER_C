@@ -1,0 +1,3 @@
+Keyboard 5
+Laptop 0
+Mouse 25
